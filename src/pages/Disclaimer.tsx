@@ -175,7 +175,7 @@ const Disclaimer = () => {
             "@type": "WebPage",
             "name": "Disclaimer - InsuranceHub",
             "description": "Important disclaimer information for InsuranceHub website users regarding content accuracy and liability limitations",
-            "url": "https://insurancehub.com/disclaimer",
+            "url": "https://insurancehub.pages.dev/disclaimer",
             "mainEntity": {
               "@type": "Article",
               "name": "Website Disclaimer",

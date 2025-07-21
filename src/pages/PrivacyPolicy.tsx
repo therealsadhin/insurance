@@ -151,7 +151,7 @@ const PrivacyPolicy = () => {
             "@type": "WebPage",
             "name": "Privacy Policy - InsuranceHub",
             "description": "InsuranceHub's privacy policy explaining how we collect, use, and protect your personal information",
-            "url": "https://insurancehub.com/privacy-policy",
+            "url": "https://insurancehub.pages.dev/privacy-policy",
             "dateModified": lastUpdated,
             "publisher": {
               "@type": "Organization",

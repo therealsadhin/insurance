@@ -137,7 +137,7 @@ const TermsConditions = () => {
             "@type": "WebPage",
             "name": "Terms & Conditions - InsuranceHub",
             "description": "Terms and conditions for using InsuranceHub's website and services",
-            "url": "https://insurancehub.com/terms-conditions",
+            "url": "https://insurancehub.pages.dev/terms-conditions",
             "dateModified": lastUpdated,
             "publisher": {
               "@type": "Organization",

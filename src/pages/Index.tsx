@@ -176,10 +176,10 @@ const Index = () => {
             "@type": "WebSite",
             "name": "InsuranceHub",
             "description": "Comprehensive insurance information and expert advice",
-            "url": "https://insurancehub.com",
+            "url": "https://insurancehub.pages.dev",
             "potentialAction": {
               "@type": "SearchAction",
-              "target": "https://insurancehub.com/search?q={search_term_string}",
+              "target": "https://insurancehub.pages.dev/search?q={search_term_string}",
               "query-input": "required name=search_term_string"
             }
           })

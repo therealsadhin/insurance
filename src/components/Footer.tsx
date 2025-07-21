@@ -163,8 +163,8 @@ const Footer = () => {
             "@context": "https://schema.org",
             "@type": "Organization",
             "name": "InsuranceHub",
-            "url": "https://insurancehub.com",
-            "logo": "https://insurancehub.com/logo.png",
+            "url": "https://insurancehub.pages.dev",
+            "logo": "https://insurancehub.pages.dev/logo.png",
             "description": "Comprehensive insurance information and expert advice",
             "contactPoint": {
               "@type": "ContactPoint",

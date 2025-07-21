@@ -258,7 +258,7 @@ const CookiePolicy = () => {
             "@type": "WebPage",
             "name": "Cookie Policy - InsuranceHub",
             "description": "Learn how InsuranceHub uses cookies and similar technologies to enhance your browsing experience",
-            "url": "https://insurancehub.com/cookie-policy",
+            "url": "https://insurancehub.pages.dev/cookie-policy",
             "mainEntity": {
               "@type": "Article",
               "name": "Cookie Policy",

@@ -282,7 +282,7 @@ const Press = () => {
             "@type": "WebPage",
             "name": "Press Room - InsuranceHub",
             "description": "Media resources, press releases, and contact information for journalists covering InsuranceHub",
-            "url": "https://insurancehub.com/press",
+            "url": "https://insurancehub.pages.dev/press",
             "mainEntity": {
               "@type": "Organization",
               "name": "InsuranceHub",

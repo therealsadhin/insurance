@@ -272,7 +272,7 @@ const Contact = () => {
             "@type": "ContactPage",
             "name": "Contact InsuranceHub",
             "description": "Get in touch with our expert insurance team for personalized advice and quotes",
-            "url": "https://insurancehub.com/contact",
+            "url": "https://insurancehub.pages.dev/contact",
             "mainEntity": {
               "@type": "ContactPoint",
               "telephone": "1-800-INSURANCE",

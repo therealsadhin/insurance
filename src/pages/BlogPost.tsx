@@ -25,7 +25,7 @@ const BlogPost = () => {
         <meta property="og:description" content={post.excerpt} />
         <meta property="og:image" content={post.image} />
         <meta property="og:type" content="article" />
-        <meta property="og:url" content={`https://insurancehub.com/blog/${post.slug}`} />
+        <meta property="og:url" content={`https://insurancehub.pages.dev/blog/${post.slug}`} />
       </Helmet>
       <section className="bg-primary text-primary-foreground py-16">
         <div className="container mx-auto px-4 text-center">
