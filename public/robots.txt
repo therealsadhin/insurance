@@ -1,0 +1,45 @@
+# Robots.txt for InsuranceHub - Insurance Blog Website
+# Optimized for Google AdSense and SEO
+
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 1
+
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 1
+
+User-agent: Slurp
+Allow: /
+Crawl-delay: 1
+
+User-agent: DuckDuckBot
+Allow: /
+Crawl-delay: 1
+
+User-agent: Twitterbot
+Allow: /
+
+User-agent: facebookexternalhit
+Allow: /
+
+User-agent: LinkedInBot
+Allow: /
+
+# Google AdSense Bot
+User-agent: Mediapartners-Google
+Allow: /
+
+# Allow all other bots
+User-agent: *
+Allow: /
+Crawl-delay: 2
+
+# Important pages for crawlers
+Allow: /about
+Allow: /contact
+Allow: /privacy-policy
+Allow: /terms-conditions
+
+# Sitemap location
+Sitemap: https://insurancehub.com/sitemap.xml

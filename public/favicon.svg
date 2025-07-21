@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <title>InsuranceHub Shield Favicon</title>
+  <desc>Shield with checkmark, representing insurance protection and trust</desc>
+  <g>
+    <path d="M32 6C32 6 10 12 10 24C10 44 32 58 32 58C32 58 54 44 54 24C54 12 32 6 32 6Z" fill="#2563eb" stroke="#1e40af" stroke-width="2"/>
+    <path d="M24 32L30 38L42 26" stroke="#fff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg> 
