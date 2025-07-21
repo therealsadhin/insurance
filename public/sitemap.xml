@@ -8,7 +8,7 @@
 
   <!-- Homepage -->
   <url>
-    <loc>https://insurancehub.com/</loc>
+    <loc>https://insurancehub.pages.dev/</loc>
     <lastmod>2024-12-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
@@ -16,7 +16,7 @@
 
   <!-- About Page -->
   <url>
-    <loc>https://insurancehub.com/about</loc>
+    <loc>https://insurancehub.pages.dev/about</loc>
     <lastmod>2024-12-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -24,7 +24,7 @@
 
   <!-- Contact Page -->
   <url>
-    <loc>https://insurancehub.com/contact</loc>
+    <loc>https://insurancehub.pages.dev/contact</loc>
     <lastmod>2024-12-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -32,7 +32,7 @@
 
   <!-- Privacy Policy -->
   <url>
-    <loc>https://insurancehub.com/privacy-policy</loc>
+    <loc>https://insurancehub.pages.dev/privacy-policy</loc>
     <lastmod>2024-12-15</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
@@ -40,7 +40,7 @@
 
   <!-- Terms & Conditions -->
   <url>
-    <loc>https://insurancehub.com/terms-conditions</loc>
+    <loc>https://insurancehub.pages.dev/terms-conditions</loc>
     <lastmod>2024-12-15</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
@@ -48,28 +48,28 @@
 
   <!-- Blog Posts -->
   <url>
-    <loc>https://insurancehub.com/blog/understanding-auto-insurance-deductibles</loc>
+    <loc>https://insurancehub.pages.dev/blog/understanding-auto-insurance-deductibles</loc>
     <lastmod>2024-12-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
 
   <url>
-    <loc>https://insurancehub.com/blog/home-insurance-coverage-guide</loc>
+    <loc>https://insurancehub.pages.dev/blog/home-insurance-coverage-guide</loc>
     <lastmod>2024-12-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
 
   <url>
-    <loc>https://insurancehub.com/blog/life-vs-term-insurance-comparison</loc>
+    <loc>https://insurancehub.pages.dev/blog/life-vs-term-insurance-comparison</loc>
     <lastmod>2024-12-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
 
   <url>
-    <loc>https://insurancehub.com/blog/health-insurance-open-enrollment-2024</loc>
+    <loc>https://insurancehub.pages.dev/blog/health-insurance-open-enrollment-2024</loc>
     <lastmod>2024-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
@@ -77,35 +77,35 @@
 
   <!-- Category Pages -->
   <url>
-    <loc>https://insurancehub.com/category/auto-insurance</loc>
+    <loc>https://insurancehub.pages.dev/category/auto-insurance</loc>
     <lastmod>2024-12-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>https://insurancehub.com/category/home-insurance</loc>
+    <loc>https://insurancehub.pages.dev/category/home-insurance</loc>
     <lastmod>2024-12-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>https://insurancehub.com/category/health-insurance</loc>
+    <loc>https://insurancehub.pages.dev/category/health-insurance</loc>
     <lastmod>2024-12-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>https://insurancehub.com/category/life-insurance</loc>
+    <loc>https://insurancehub.pages.dev/category/life-insurance</loc>
     <lastmod>2024-12-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>https://insurancehub.com/category/business-insurance</loc>
+    <loc>https://insurancehub.pages.dev/category/business-insurance</loc>
     <lastmod>2024-12-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
